@@ -1,2 +1,2 @@
-# Start
-Начальный шаблон!!!
+# SocialNet
+Открыл для себя BootStrap!!!
